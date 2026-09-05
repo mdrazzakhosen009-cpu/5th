@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: maheer-store
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
