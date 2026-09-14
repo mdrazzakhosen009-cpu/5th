@@ -1,0 +1,8 @@
+{
+  "name": "nexora-omega-living",
+  "version": "2.0.0",
+  "private": true,
+  "description": "NEXORA OMEGA — Living Digital World",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
