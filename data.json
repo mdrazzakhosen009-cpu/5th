@@ -1,0 +1,208 @@
+{
+  "settings": {
+    "brand": "Made by Nexora WEB",
+    "phone": "01753519603",
+    "theme": {
+      "bg": "#06111f",
+      "panel": "#0b1930",
+      "text": "#ecf6ff",
+      "muted": "#8aa4bf",
+      "cyan": "#44e7ff",
+      "violet": "#8f7cff",
+      "lime": "#a7ffcf"
+    },
+    "adminPassword": "nexora-omega-2026"
+  },
+  "products": [
+    {
+      "id": "P001",
+      "name": "Aurum Handloom Saree",
+      "category": "Fashion & Clothing",
+      "price": 4990,
+      "oldPrice": 5990,
+      "stock": 14,
+      "colors": [
+        "Ivory",
+        "Wine",
+        "Teal"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "description": "Premium handloom saree with a refined woven finish.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "id": "P002",
+      "name": "Noir Pro Headphones",
+      "category": "Electronics & Gadgets",
+      "price": 7490,
+      "oldPrice": 8490,
+      "stock": 8,
+      "colors": [
+        "Graphite",
+        "Silver"
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "description": "Immersive over-ear headphones for work and travel.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "id": "P003",
+      "name": "Radiant Vitamin C Serum",
+      "category": "Beauty & Skincare",
+      "price": 1290,
+      "oldPrice": 1590,
+      "stock": 31,
+      "colors": [],
+      "sizes": [
+        "30ml"
+      ],
+      "description": "Daily brightening skincare serum.",
+      "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "id": "P004",
+      "name": "Sculpted Ambient Lamp",
+      "category": "Home & Living",
+      "price": 3290,
+      "oldPrice": 3890,
+      "stock": 9,
+      "colors": [
+        "Sand",
+        "Slate"
+      ],
+      "sizes": [
+        "Standard"
+      ],
+      "description": "Sculptural ambient light designed for modern interiors.",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "id": "P005",
+      "name": "Aurum Classic Watch",
+      "category": "Jewelry & Watches",
+      "price": 8990,
+      "oldPrice": 9990,
+      "stock": 5,
+      "colors": [
+        "Gold",
+        "Steel"
+      ],
+      "sizes": [
+        "Adjustable"
+      ],
+      "description": "Minimal classic timepiece with premium finishing.",
+      "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "id": "P006",
+      "name": "Velocity Runner",
+      "category": "Shoes & Bags",
+      "price": 4590,
+      "oldPrice": 5290,
+      "stock": 18,
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "description": "Performance sneaker built for daily movement.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "id": "P007",
+      "name": "Executive Leather Journal",
+      "category": "Books & Stationery",
+      "price": 990,
+      "oldPrice": 1290,
+      "stock": 46,
+      "colors": [
+        "Brown",
+        "Black"
+      ],
+      "sizes": [
+        "A5"
+      ],
+      "description": "Premium notebook for ideas, planning and notes.",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=85"
+    },
+    {
+      "id": "P008",
+      "name": "Daily Wellness Bottle",
+      "category": "Health & Wellness",
+      "price": 1290,
+      "oldPrice": 1490,
+      "stock": 24,
+      "colors": [
+        "Mint",
+        "Navy"
+      ],
+      "sizes": [
+        "750ml"
+      ],
+      "description": "Insulated everyday hydration bottle.",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=85"
+    }
+  ],
+  "categories": [
+    "Fashion & Clothing",
+    "Electronics & Gadgets",
+    "Beauty & Skincare",
+    "Home & Living",
+    "Grocery & Food",
+    "Jewelry & Watches",
+    "Shoes & Bags",
+    "Sports & Fitness",
+    "Kids & Baby",
+    "Books & Stationery",
+    "Automotive",
+    "Health & Wellness",
+    "Pet Supplies",
+    "Services & Professional",
+    "Digital Products",
+    "Other / Custom Business"
+  ],
+  "orders": [],
+  "reviews": [
+    {
+      "id": "R001",
+      "name": "Amina",
+      "rating": 5,
+      "text": "The experience feels completely different from a normal store.",
+      "world": "DISCOVER"
+    },
+    {
+      "id": "R002",
+      "name": "Rahim",
+      "rating": 5,
+      "text": "I described what I needed and the interface adapted instantly.",
+      "world": "SHOP"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is NEXORA OMEGA?",
+      "a": "A living digital environment that adapts the experience around user intent."
+    },
+    {
+      "q": "Does it support real orders?",
+      "a": "Yes. Orders are created through the backend and stored in the project database file."
+    }
+  ],
+  "analytics": {
+    "events": []
+  },
+  "evolution": {
+    "proposals": []
+  }
+}
